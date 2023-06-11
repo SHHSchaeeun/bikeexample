@@ -1,0 +1,9 @@
+streamlit
+io
+numpy
+pandas
+datetime
+calendar
+scikit-learn
+seaborn
+matplotlib
